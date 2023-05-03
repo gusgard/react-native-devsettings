@@ -1,8 +1,26 @@
 {
   "name": "react-native-devsettings",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.ts",
+  "description": "A simple library to enable/disable Chrome Debugger from your app",
   "repository": "git@github.com:gusgard/react-native-devsettings.git",
-  "author": "Gustavo Gard <gusgard@gmail.com>",
-  "license": "MIT"
+  "author": "Gustavo Gard <gusgard.it@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "react-native-devsettings",
+    "react-native",
+    "react",
+    "debugger",
+    "debug",
+    "react-native-debugger",
+    "chrome debugger",
+    "debug chrome"
+  ],
+  "scripts": {
+    "publish": "npm publish",
+    "publish:beta": "npm publish --tag beta"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
 }
