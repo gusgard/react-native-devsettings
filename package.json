@@ -1,6 +1,6 @@
 {
   "name": "react-native-devsettings",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.ts",
   "description": "A simple library to enable/disable Chrome Debugger from your app",
   "author": "Gustavo Gard <gusgard.it@gmail.com>",
