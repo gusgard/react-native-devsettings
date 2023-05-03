@@ -1,0 +1,8 @@
+{
+  "name": "react-native-devsettings",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gusgard/react-native-devsettings.git",
+  "author": "Gustavo Gard <gusgard@gmail.com>",
+  "license": "MIT"
+}
