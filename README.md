@@ -7,7 +7,7 @@
 
 <!-- [![npm](https://img.shields.io/npm/dm/react-native-devsettings.svg)](https://www.npmjs.com/package/react-native-devsettings) -->
 
-Enable react-native-debugger and chrome debugger on Hermes
+Enable react-native-debugger and chrome debugger on Hermes (when `__DEV__` is `true`)
 
 ## Installation
 
