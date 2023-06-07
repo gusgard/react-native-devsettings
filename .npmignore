@@ -3,3 +3,4 @@
 
 # But not these files...
 !index.ts
+!withAsyncStorage.ts
