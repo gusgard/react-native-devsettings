@@ -26,7 +26,9 @@ yarn add react-native-devsettings
 Add the following line to your `App.tsx` file
 
 ```js
-import 'react-native-devsettings';
+import "react-native-devsettings";
+// OR if you are using AsyncStorage
+import "react-native-devsettings/withAsyncStorage";
 ```
 
 Execute `cmd+d` or `cmd+m` on your simulator/emulator and select `(*) Debug JS Remotely`
