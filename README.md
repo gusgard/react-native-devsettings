@@ -28,6 +28,8 @@ Add the following line to your `App.tsx` file
 import "react-native-devsettings";
 // OR if you are using AsyncStorage
 import "react-native-devsettings/withAsyncStorage";
+// OR if you want to use in debug mode only
+if (__DEV__) require('react-native-devsettings');
 ```
 
 Execute `cmd+d` or `cmd+m` on your simulator/emulator and select `(*) Debug JS Remotely`
