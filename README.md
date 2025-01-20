@@ -8,6 +8,8 @@
 
 Enable react-native-debugger and chrome debugger on Hermes (when `__DEV__` is `true`)
 
+⚠️ Are you using React Native 0.76? You don't need to install this package, check the new **React Native Devtools** https://reactnative.dev/docs/react-native-devtools
+
 ## Installation
 
 ```sh
